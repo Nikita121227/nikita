@@ -1,53 +1,12 @@
 <html>
-<head>
-<style>
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-
-th, td {
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #D6EEEE;
-}
-</style>
-</head>
 <body>
 
-<h2>Zebra Striped Table</h2>
-<p>For zebra-striped tables, use the nth-child() selector and add a background-color to all even (or odd) table rows:</p>
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
 
-<table>
-  <tr>
-  <th>First Name</th>
-  <th>Last Name</th>
-  <th>Points</th>
-  </tr>
-  <tr>
-  <td>Peter</td>
-  <td>Griffin</td>
-  <td>$100</td>
-  </tr>
-  <tr>
-  <td>Lois</td>
-  <td>Griffin</td>
-  <td>$150</td>
-  </tr>
-  <tr>
-  <td>Joe</td>
-  <td>Swanson</td>
-  <td>$300</td>
-  </tr>
-  <tr>
-  <td>Cleveland</td>
-  <td>Brown</td>
-  <td>$250</td>
-  </tr>
-</table>
+<p style="background-color:Tomato;">
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+</p>
 
 </body>
-</html
+</html>
