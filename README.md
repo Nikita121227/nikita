@@ -1,17 +1,15 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
-body {
-  background-image: url('nature-images.webp');
-}
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
 </style>
 </head>
 <body>
 
-<h2>Background Image</h2>
-
-<p>By default, the background image will repeat itself if it is smaller than the element where it is specified, in this case the body element.</p>
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
 
 </body>
 </html>
