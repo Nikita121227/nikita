@@ -3,7 +3,7 @@
 <head>
 <style>
 body {
-  background-image: url('jpg.webp');
+  background-image: url('nature-images.webp');
 }
 </style>
 </head>
