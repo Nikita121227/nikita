@@ -1,9 +1,17 @@
 <!DOCTYPE html>
 <html>
+<head>
+<style>
+body {
+  background-image: url('jpg.webp');
+}
+</style>
+</head>
 <body>
 
-<h2>HTML Image</h2>
-<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+<h2>Background Image</h2>
+
+<p>By default, the background image will repeat itself if it is smaller than the element where it is specified, in this case the body element.</p>
 
 </body>
-</html
+</html>
