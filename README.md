@@ -6,10 +6,4 @@
 * `/images` directory contains the background images. The background image is from [Unsplash](http://unsplash.com/).
 
 
-```
-background: url(background-photo.jpg) center center cover no-repeat fixed;
-```
-
-For a faster page load on small screens (i.e., mobile devices) a scaled-down version of the background image is served using a media query.
-
 
