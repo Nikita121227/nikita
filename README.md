@@ -4,8 +4,8 @@
 ## What Is This?
 These are the sources files for a Six Revisions tutorial called [Responsive Full Background Image Using CSS](http://sixrevisions.com/css/responsive-background-image/).
 
-* `responsive-full-background-image.css` - this contains the CSS for achieving the responsive full background image
-* `responsive-full-background-image-demo.html` - this is the HTML source code
+* `` My Name Is Nikita Patil
+* `I am Study in BCA
 * Files in the `/presentational-only` are not required. They're purely for demonstrative purposes.
 * `/images` directory contains the background images. The background image is from [Unsplash](http://unsplash.com/).
 
