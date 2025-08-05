@@ -1,8 +1,8 @@
-# Responsive Full Background Image Using CSS
-[![Responsive Full Background Image](http://cdn.sixrevisions.com/0431-02_responsive_background_demo_ss.jpg)](http://sixrevisions.com/css/responsive-background-image/)
+# Hellow All Of You
+[![My Name Is Nikita patil](http://cdn.sixrevisions.com/0431-02_responsive_background_demo_ss.jpg)](http://sixrevisions.com/css/responsive-background-image/)
 
 ## What Is This?
-These are the sources files for a Six Revisions tutorial called [Responsive Full Background Image Using CSS](http://sixrevisions.com/css/responsive-background-image/).
+These are the sources files for a Six Revisions tutorial called [Nikita Patl]http://sixrevisions.com/css/responsive-background-image/).
 
 * `` My Name Is Nikita Patil
 * `I am Study in BCA
