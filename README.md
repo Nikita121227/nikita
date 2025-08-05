@@ -1,4 +1,4 @@
-# Responsive Full Background Image Using CSS
+# My  Background Image Using CSS
 [![Responsive Full Background Image](http://cdn.sixrevisions.com/0431-02_responsive_background_demo_ss.jpg)](http://sixrevisions.com/css/responsive-background-image/)
 
 ## Demo
