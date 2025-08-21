@@ -1,5 +1,5 @@
 # My  Background Image Using CSS
-[![Responsive Full Background Image](http://cdn.sixrevisions.com/0431-02_responsive_background_demo_ss.jpg)](http://sixrevisions.com/css/responsive-background-image/)
+[![Responsive Full Background Image]([http://cdn.sixrevisions.com/0431-02_responsive_background_demo_ss.jpg](https://github.com/Nikita121227/nikita/blob/main/234.png?raw=true))](http://sixrevisions.com/css/responsive-background-image/)
 
 ## Demo
 View the [demo on Six Revisions](http://cdn.sixrevisions.com/0431-01_responsive_background_image_demo/responsive-full-background-image-demo.html).
