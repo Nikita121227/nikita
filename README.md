@@ -1,39 +1,12 @@
-const messages = ["Hello", "Bonjour", "स्वागत हे", "Ciao", "Olá", "おい", "Hallå", "Guten tag", "Hallo"];
-const preloader = document.getElementById('preloader');
-const content = document.getElementById('content');
+# ☕ Responsive Coffee Website
+## [Watch it on youtube](https://youtu.be/kObf5-dJMpw)
+### ☕ Responsive Coffee Website
 
-let currentMessage = 0;
+- Responsive Coffee Website Using HTML CSS & JavaScript
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-function showNextMessage() {
-    if (currentMessage < messages.length) {
-        const messageElement = document.createElement('div');
-        messageElement.className = 'message';
-        messageElement.textContent = messages[currentMessage];
+💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-        if (currentMessage === 0) {
-            messageElement.classList.add('fade-in');
-        }
-
-        preloader.innerHTML = '';
-        preloader.appendChild(messageElement);
-
-        let displayTime = 150;
-        if (currentMessage === 0) {
-            displayTime = 800;
-        }
-
-        currentMessage++;
-        setTimeout(showNextMessage, displayTime);
-    } else {
-        content.classList.add('show-content');
-        content.style.borderBottomLeftRadius = '0';
-        content.style.borderBottomRightRadius = '0';
-        
-        setTimeout(() => {
-            preloader.classList.add('slide-out');
-            setTimeout(() => {
-                preloader.style.display = 'none';
-            }, 400);
-        }, 400);
-    }
-}
+![preview img](/preview.png)
